@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-09T10:58:11.000Z</updated>
+  <updated>2017-07-10T15:18:59.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,39 +17,24 @@
   
   <entry>
     <title>Love you!</title>
-    <link href="http://yoursite.com/2017/07/09/hello-world/"/>
-    <id>http://yoursite.com/2017/07/09/hello-world/</id>
-    <published>2017-07-09T10:58:11.000Z</published>
-    <updated>2017-07-09T10:58:11.000Z</updated>
+    <link href="http://yoursite.com/2017/07/10/hello-world/"/>
+    <id>http://yoursite.com/2017/07/10/hello-world/</id>
+    <published>2017-07-10T15:18:59.000Z</published>
+    <updated>2017-07-10T15:18:59.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="this-is-a-test"><a href="#this-is-a-test" class="headerlink" title="this is a test"></a>this is a test</h1><h2 id="this-is-a-test-1"><a href="#this-is-a-test-1" class="headerlink" title="this is a test"></a>this is a test</h2><p>this is a test</p>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></div><div class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"hello"</span>);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+    <content type="html"><![CDATA[<figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></div><div class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"hello, world\n"</span>);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;this-is-a-test&quot;&gt;&lt;a href=&quot;#this-is-a-test&quot; class=&quot;headerlink&quot; title=&quot;this is a test&quot;&gt;&lt;/a&gt;this is a test&lt;/h1&gt;&lt;h2 id=&quot;this-is-a-test-1&quot;
+      &lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;d
     
     </summary>
     
       <category term="test" scheme="http://yoursite.com/categories/test/"/>
     
     
-      <category term="haha" scheme="http://yoursite.com/tags/haha/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2017/07/08/test/"/>
-    <id>http://yoursite.com/2017/07/08/test/</id>
-    <published>2017-07-08T12:28:58.000Z</published>
-    <updated>2017-07-09T11:07:39.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
+      <category term="helloworld" scheme="http://yoursite.com/tags/helloworld/"/>
     
   </entry>
   

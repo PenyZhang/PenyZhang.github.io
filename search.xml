@@ -4,9 +4,8 @@
     
     <entry>
       <title><![CDATA[Love you!]]></title>
-      <url>/2017/07/09/hello-world/</url>
-      <content type="html"><![CDATA[<h1 id="this-is-a-test"><a href="#this-is-a-test" class="headerlink" title="this is a test"></a>this is a test</h1><h2 id="this-is-a-test-1"><a href="#this-is-a-test-1" class="headerlink" title="this is a test"></a>this is a test</h2><p>this is a test</p>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></div><div class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"hello"</span>);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+      <url>/2017/07/10/hello-world/</url>
+      <content type="html"><![CDATA[<figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></div><div class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"hello, world\n"</span>);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 ]]></content>
       
         <categories>
@@ -18,17 +17,9 @@
         
         <tags>
             
-            <tag> haha </tag>
+            <tag> helloworld </tag>
             
         </tags>
-        
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>/2017/07/08/test/</url>
-      <content type="html"></content>
-      
         
     </entry>
     
